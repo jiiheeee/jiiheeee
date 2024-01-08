@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=1997B5&height=100&section=header&text=Welcome&nbsp;to&nbsp;jihee's&nbsp;Github&fontSize=40&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=soft&color=ECD53F&height=100&section=header&text=Welcome&nbsp;to&nbsp;jihee's&nbsp;Github&fontSize=40&animation=blinking)
 
 
   ---
