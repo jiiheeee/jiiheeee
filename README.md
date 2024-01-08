@@ -21,8 +21,6 @@
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>&nbsp;
 
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiiheeee)
 
 
