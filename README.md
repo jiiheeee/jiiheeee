@@ -6,6 +6,10 @@
   
   ### ☁️ &nbsp;SNS &nbsp;☁️ 
 <img src="https://img.shields.io/badge/Tstory-E74C3C?style=plastic&logo=Tstory&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"/>
+
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jiiheees&theme=kakao)](https://easyhomputer.tistory.com)
+
   
 ---
   
