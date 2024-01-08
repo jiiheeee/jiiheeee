@@ -1,5 +1,21 @@
-### Hi there 👋
+<div align="center">
 
+  ### 👋 Welcome to jiihee's Github 👋
+
+  ---
+  
+  ### ☁️ SNS ☁️ 
+<img src="https://img.shields.io/badge/Tstory-E74C3C?style=plastic&logo=Tstory&logoColor=white"/>
+  
+---
+  
+### ⚒️ Tech Stack ⚒️
+<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=AWS&logoColor=white"/><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
+</div>
 <!--
 **jiiheeee/jiiheeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
