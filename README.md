@@ -1,7 +1,7 @@
 <div align="center">
 
   ### 👋 Hi, there 👋
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=68A51C&height=150&section=header&text=Welcome&nbsp;to&nbsp;jihee's&nbsp;Github&fontSize=40&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=1997B5&height=150&section=header&text=Welcome&nbsp;to&nbsp;jihee's&nbsp;Github&fontSize=40&animation=blinking)
 
   ---
   
