@@ -1,15 +1,15 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=1997B5&height=150&section=header&text=Welcome&nbsp;to&nbsp;jihee's&nbsp;Github&fontSize=40&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=soft&color=1997B5&height=300&section=header&text=Welcome&nbsp;to&nbsp;jihee's&nbsp;Github&fontSize=60&animation=blinking)
 
   ---
   
-  ### ☁️ SNS ☁️ 
+  ### ☁️ &nbsp;SNS &nbsp;☁️ 
 <img src="https://img.shields.io/badge/Tstory-E74C3C?style=plastic&logo=Tstory&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"/>
   
 ---
   
-### ⚒️ Tech Stack ⚒️
+### ⚒️ &nbsp;Tech Stack &nbsp;⚒️
 <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=FastAPI&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"/>
 
